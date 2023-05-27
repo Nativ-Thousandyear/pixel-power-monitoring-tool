@@ -6,6 +6,14 @@ Pixel Power Monitoring and Analysis Tool: Develop a software tool that monitors 
 
 
 
+
+
+
+more links and references:
+
+
+
+
 Android Power Management: https://developer.android.com/topic/performance/power
 Android Power Profiler: https://developer.android.com/studio/profile/power-monitoring
 Android Battery Historian: https://developer.android.com/studio/profile/battery-historian
