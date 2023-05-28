@@ -39,7 +39,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Nativ Thousandyear
 
 
 
